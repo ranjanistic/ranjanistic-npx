@@ -1,0 +1,35 @@
+{
+  "name": "ranjanistic",
+  "version": "1.0.0",
+  "description": "My personal NPM card",
+  "main": "index.js",
+  "bin": {
+    "ranjanistic": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjanistic/ranjanistic-npx.git"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Priyanshu Ranjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranjanistic/ranjanistic-npx/issues"
+  },
+  "homepage": "https://github.com/ranjanistic/ranjanistic-npx#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  }
+}
